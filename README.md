@@ -59,7 +59,6 @@ The dataset is loaded from an online source and contains information such as:
 - Calculated average automobile sales  
 
 ---
-
 ## 📈 Visualizations
 
 - 📉 Average Automobile Sales by Year  
@@ -99,7 +98,6 @@ From the analysis:
 This project demonstrates how data visualization helps in understanding business trends.
 
 ---
-
 ## ▶️ How to Run
 
 1. Install required libraries:
@@ -114,4 +112,34 @@ This project demonstrates how data visualization helps in understanding business
 
 - `DV0101_part1.ipynb` → Main notebook  
 - `README.md` → Project documentation  
+
+
+
+## 🚀 Interactive Dashboard (Part 2)
+
+This project includes an interactive dashboard built using Dash and Plotly.
+
+### 📊 Features:
+- Interactive dropdown for selecting statistics
+- Dynamic graphs based on user input
+- Visualization of automobile sales trends
+- Analysis during recession vs non-recession periods
+
+### 🛠️ Technologies Used:
+- Dash
+- Plotly
+- Pandas
+
+### ▶️ How to Run:
+
+1. Install dependencies:
+   pip install dash pandas plotly
+
+2. Run the app:
+   python part2/automobile_dashboard_part2.py
+
+3. Open browser:
+   http://127.0.0.1:8050/
+
+
 
